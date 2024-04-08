@@ -1,0 +1,47 @@
+:root {
+--md-sys-color-primary: #1b1b1b; 
+  --md-sys-color-on-primary: #000000; 
+  --md-sys-color-primary-container: #f5f5f5; 
+  --md-sys-color-on-primary-container: #202020;
+
+  /* Secondary colors adjusted to slightly darker shades of gray */
+  --md-sys-color-secondary: #cccccc;
+  --md-sys-color-on-secondary: #000000;
+  --md-sys-color-secondary-container: #e8e8e8;
+  --md-sys-color-on-secondary-container: #303030;
+
+  /* Tertiary colors in medium grays for differentiation */
+  --md-sys-color-tertiary: #b1b1b1;
+  --md-sys-color-on-tertiary: #000000;
+  --md-sys-color-tertiary-container: #d6d6d6;
+  --md-sys-color-on-tertiary-container: #282828;
+
+  /* Error colors in softer gray tones, maintaining distinction */
+  --md-sys-color-error: #9e9e9e;
+  --md-sys-color-error-container: #efefef;
+  --md-sys-color-on-error: #000000;
+  --md-sys-color-on-error-container: #424242;
+
+  /* Background and surface colors in white, with text in black for contrast */
+  --md-sys-color-background: #ffffff;
+  --md-sys-color-on-background: #000000;
+
+  --md-sys-color-surface: #ffffff;
+  --md-sys-color-on-surface: #000000;
+  --md-sys-color-surface-variant: #e0e0e0;
+  --md-sys-color-on-surface-variant: #404040;
+
+  /* Outline colors in medium gray to distinguish outlines */
+  --md-sys-color-outline: #9e9e9e;
+
+  /* Inverse colors for dark mode elements, adjusted for black and white theme */
+  --md-sys-color-inverse-on-surface: hsl(0deg, 0% ,96%);
+  --md-sys-color-inverse-surface: #404040;
+  --md-sys-color-inverse-primary: #f5f5f5;
+
+  /* Shadow and tint colors in black, maintaining shadow effects subtly */
+  --md-sys-color-shadow: #000000;
+  --md-sys-color-surface-tint: #f5f5f5;
+  --md-sys-color-outline-variant: #cccccc;
+  --md-sys-color-scrim: #000000;
+}
