@@ -247,5 +247,3 @@ class TileId {
   }
 }
 
-Hola
-
